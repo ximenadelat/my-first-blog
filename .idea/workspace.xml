@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a999b189-9b52-42ab-89bc-db8d4920f2a0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/templates/blog/base.html" afterPath="$PROJECT_DIR$/blog/templates/blog/base.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="djangogirls.iws" />
@@ -475,7 +474,11 @@
       <created>1512253034316</created>
       <updated>1512253034316</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="cambiar allowed host2">
+      <created>1512253333261</created>
+      <updated>1512253333261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -519,7 +522,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="cambiar allowed host" />
-    <option name="LAST_COMMIT_MESSAGE" value="cambiar allowed host" />
+    <MESSAGE value="cambiar allowed host2" />
+    <option name="LAST_COMMIT_MESSAGE" value="cambiar allowed host2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
